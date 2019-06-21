@@ -1,4 +1,6 @@
-# Basic Calculator Android App
+# Basic Calculator Android App  
+![](./logo.png) 
+
 To use source code : 
 1. Clone Repository <br>
 ```git clone https://github.com/ft-abhishekgupta/android-basic-calculator```
